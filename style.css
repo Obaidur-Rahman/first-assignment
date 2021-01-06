@@ -42,7 +42,7 @@ h2{
    color: white;
 }
 section{
-    height: 500px;
+    height: 900px;
     padding-top: 10px;
 }
 .lastet{
@@ -57,22 +57,15 @@ section{
 }
 .middle{
 
-
+ 
 }
 .middle-img{
-    width: 25%;
-  
-}
-.full-stack1{
-  
-
     
-}
-.full-stack2{
-
-   
-}
-.full-stack3{
   
- 
+}
+.full-stack{
+  
+width: 30%;
+float: left;
+    
 }
